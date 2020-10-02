@@ -1,3 +1,4 @@
-I want to write a program that will detect winks in real time and update two counters (left and right wink) accordingly. This is so that I can count things while playing the organs (long story)
+Change of plans. Turns out it was just that one tutorial that was complicated. Found something else and so I'll go straight into it.
 
-Because this project is so out of my depth, I'll be doing several smaller, "stepping stone projects". They're in the subfolders.
+Following this:
+https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6
